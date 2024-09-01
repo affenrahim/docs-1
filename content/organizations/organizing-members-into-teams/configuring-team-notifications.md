@@ -1,4 +1,4 @@
----
+content/organizations/organizing-members-into-teams/configuring-team-notifications.md---
 title: Configuring team notifications
 intro: 'Team maintainers and organization owners can configure notifications for specific teams.'
 versions:
